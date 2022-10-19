@@ -1,3 +1,3 @@
 # boostcamp AI Tech Alumni
 
-![Header Image](./profile/contents/alumni-header.png)
+![Header Image](./profile/contents/alumni-header.jpg)
